@@ -1,0 +1,16 @@
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.exe
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.deps.json
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.runtimeconfig.json
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.runtimeconfig.dev.json
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.dll
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ref\ExercicioEstoque.dll
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\bin\Debug\net5.0\ExercicioEstoque.pdb
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.csproj.AssemblyReference.cache
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.AssemblyInfoInputs.cache
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.AssemblyInfo.cs
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.dll
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ref\ExercicioEstoque.dll
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.pdb
+C:\Users\Ayrton\Desktop\Curso c#\ExercicioEstoque\ExercicioEstoque\obj\Debug\net5.0\ExercicioEstoque.genruntimeconfig.cache
